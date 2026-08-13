@@ -1,4 +1,4 @@
 # static
 ~~~
-chmod +x start.sh restart.sh
+chmod +x start-cypher.sh
 ~~~
